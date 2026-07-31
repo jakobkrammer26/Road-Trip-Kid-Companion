@@ -1,0 +1,6 @@
+{
+  "name": "Road Trip Kid Companion - iPad Drive App",
+  "description": "Interactive iPad road trip app for kids featuring real-time ETA countdowns ('Are We There Yet?'), auto-announcements with funny jokes & location trivia every 2-5 minutes, speech synthesizer, route tracker, offline map integration, and road games.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
